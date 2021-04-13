@@ -1,4 +1,4 @@
-# indecisionapp
+# expensifyapp
 
 Run via Web Pack Dev Server. The bundle.js file will be maintined in browser.
 
